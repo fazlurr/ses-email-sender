@@ -1,0 +1,5 @@
+{
+  "name": "SES Email Blaster",
+  "description": "A professional bulk email tool using AWS SES. Upload Excel recipients, configure sender profiles, and manage your email campaigns.",
+  "requestFramePermissions": []
+}
